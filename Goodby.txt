@@ -1,0 +1,2 @@
+class goodby
+end goodby
